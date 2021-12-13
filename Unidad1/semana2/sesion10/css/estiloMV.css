@@ -1,0 +1,16 @@
+body{font-family: sans-serif;}
+
+nav{width: 200px;}
+
+#title{text-align: center; text-decoration: underline;}
+
+ul{width: 200px; list-style: none; line-height: 30px;margin: 0; padding: 0; box-shadow:2px 5px 10px rgb(233, 10, 10);}
+
+li:first-child{ background-color: orange; }
+li:first-child a{color: white;}
+li:first-child a:hover{background-color: papayawhip ;}
+.item{border: 1px dotted rgb(209, 209, 209);}
+a{text-decoration: none; color: black; padding-left: 8px;display: block;}
+a:hover{background-color: papayawhip;}
+a:active{background-color: rgb(54, 54, 54); color: white;}
+li:first-child{ background-color: orange;}
